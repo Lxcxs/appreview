@@ -7,7 +7,8 @@ export default function App() {
     <View style={styles.container}>
       <TODO />
 
-      <StatusBar style="auto" />
+      <StatusBar 
+        style="auto" />
     </View>
   );
 }
